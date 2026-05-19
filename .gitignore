@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+venv/
+.venv/
+
+# Build output
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# App data (user's local data)
+data/downloads/*.mp3
+data/musicplayer.db
+
+# Temporary
+*.log
+icon_temp.png
+test_probe.py
+
+# OS
+Thumbs.db
+.DS_Store
